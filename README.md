@@ -62,7 +62,7 @@ Trực quan hóa bản đồ phân tán (Scatter Plot) của mô hình K-Means v
 ```text
 ecommerce-behavior-analysis/
 |
-├── data/                 # (Folder chứa file sample data nhỏ gọn)
+├
 ├── notebooks/            # Chứa các file Jupyter Notebook xử lý chính
 |   ├── 01_data_understanding.ipynb
 |   ├── 02_sampling_strategy.ipynb
