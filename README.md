@@ -72,8 +72,8 @@ ecommerce-behavior-analysis/
 |   ├── 06_K-means_clustering.ipynb
 |   └── 07_Apriori_association_rules.ipynb
 ├── dashboard/            # File thiết kế Power BI
-|   └── ecommerce_dashboard.pbix
-├── images/               # Chứa ảnh xuất ra từ biểu đồ Python và Power BI
+|   └── dashboard_powerbi.pdf
+├── images/               # Chứa ảnh xuất ra từ biểu đồ Python
 └── README.md
 ```
 
